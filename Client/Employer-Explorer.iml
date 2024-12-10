@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/com.ibm.icu_75.1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/jakarta.annotation-api_2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.commands_3.12.200.v20240627-1019.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.runtime_3.31.100.v20240524-2010.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.e4.ui.di_1.5.400.v20240321-1245.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.common_3.19.100.v20240524-2011.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.registry_3.12.100.v20240524-2011.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface_3.35.0.v20240820-2045.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface.text_3.25.200.v20240816-1151.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.osgi_3.21.0.v20240717-2103.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.127.0.v20240903-0618.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.text_3.14.100.v20240524-2010.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.forms_3.13.300.v20240424-0956.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.133.0.v20240818-1923.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/com.jgoodies.forms_1.9.0.v20240327-0800.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/com.jgoodies.common_1.8.1.v20240327-0800.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="com.ibm.icu_75.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/com.ibm.icu_75.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/com.ibm.icu_75.1.0.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jakarta.annotation-api_2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/jakarta.annotation-api_2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MAVEN_REPOSITORY$/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.commands_3.12.200.v20240627-1019.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.commands_3.12.200.v20240627-1019.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.commands_3.12.200.v20240627-1019.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.runtime_3.31.100.v20240524-2010.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.runtime_3.31.100.v20240524-2010.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.core.runtime_3.31.100.v20240524-2010.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.e4.ui.di_1.5.400.v20240321-1245.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.e4.ui.di_1.5.400.v20240321-1245.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.e4.ui.di_1.5.400.v20240321-1245.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.common_3.19.100.v20240524-2011.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.common_3.19.100.v20240524-2011.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.common_3.19.100.v20240524-2011.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.registry_3.12.100.v20240524-2011.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.registry_3.12.100.v20240524-2011.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.equinox.registry_3.12.100.v20240524-2011.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface_3.35.0.v20240820-2045.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface_3.35.0.v20240820-2045.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface_3.35.0.v20240820-2045.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface.text_3.25.200.v20240816-1151.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface.text_3.25.200.v20240816-1151.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.jface.text_3.25.200.v20240816-1151.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.osgi_3.21.0.v20240717-2103.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.osgi_3.21.0.v20240717-2103.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.osgi_3.21.0.v20240717-2103.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.swt.win32.win32.x86_64_3.127.0.v20240903-0618.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.127.0.v20240903-0618.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.127.0.v20240903-0618.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.text_3.14.100.v20240524-2010.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.text_3.14.100.v20240524-2010.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.text_3.14.100.v20240524-2010.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.ui.forms_3.13.300.v20240424-0956.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.forms_3.13.300.v20240424-0956.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.forms_3.13.300.v20240424-0956.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.ui.workbench_3.133.0.v20240818-1923.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.133.0.v20240818-1923.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../eclipse/eclipse/plugins/org.eclipse.ui.workbench_3.133.0.v20240818-1923.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.jgoodies.forms_1.9.0.v20240327-0800.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/com.jgoodies.forms_1.9.0.v20240327-0800.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.jgoodies.common_1.8.1.v20240327-0800.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/com.jgoodies.common_1.8.1.v20240327-0800.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
